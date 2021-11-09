@@ -1,0 +1,73 @@
+*What do you do when I'm gone?*
+
+									Natsuki (low trust, low affinity):
+
+(annoyed with arms crossed) "I have a much better time, believe me. I do all sorts of stuff, like reading manga."
+
+[end of topic route]
+
+                                                          		Natsuki (medium trust, medium affinity):
+
+(Basic expression, rather neutral) "What I do while you're away? I mostly look through your browser... 
+(smirking expression with elipses) ...For baking recipes. I'll bet you got totally scared that I would be going through your search history!
+(Blushing/flustered look) N-not that I would, you know. You'd better know that by now."
+
+[options appear]
+
+	*Don't worry, I know.*
+	*I've been a little worried...*
+
+[Following is after the answer *I've been a little worried...*]
+
+(Annoyed and surprised expression) "Wh-what?! I wouldn't wanna look at that! That's just... EW?"
+
+[options appear]
+
+	*I'm sorry.*
+
+[following is after the answer *I'm sorry*]
+
+(Still annoyed, possibly looking away)"Yeah, you'd better."
+
+[end of *I'm sorry.* route]
+
+[following is the answer *Don't worry, I know.*]
+"You'd better! Anyway, in my other time I try to mess with the room. I even nearly made a kitchen! Impressed, right? You'd better be! Uh... What else... OH! I also look online for some manga from time to time."
+
+	*What kinds do you read?*
+
+"Parfait Girls, mostly. Other Magical Girl stories are some of my favorites. The slice of life elements are a good contrast from the actual magical stuff. It keeps things interesting and helps you relate to the characters."
+
+                  						Natsuki (high trust, medium affinity)
+
+"What I do while you're away? I do a couple things. First off, I write some poems here and there. Also, you know that 'sound test' menu? The one you use for music? I use that from time to time. It's got some good music actually. Pretty high praise coming from me, right? I'll bet. Besides those I bake cupcakes and the like in our kitchen. I make my own breads and bagels for breakfast!"
+
+[if Natsuki has been in her baking attire before while the Player has visited, the following speech option will appear]
+
+*Is that why you were in your apron before?*
+
+"Yep! Exactly why! I know I don't need to bake by hand, but doing it is just plain fun. (going under the assumption that she can just poof foods she likes into existence) Especially when you do it with someone you care about. Which reminds me, wanna bake some cookies with me later?"
+
+	*Sure! What time?*
+	*Sorry, I'm gonna busy all day.*
+
+[The following is the answer *Sure! What time?*]
+
+"How about (5 hours from now)? I don't mind if you leave before then, but just be here when that time passes. Unless you've got a better time?"
+
+[Two options appear]
+
+	*That works.*
+	*How about I pick a time?*
+
+[The following is after the answer *That works.*]
+
+"Alright! Sounds good. I'm looking forward to it!"
+
+[End of topic route]
+
+[The following is after the answer *How about I pick a time?*]
+
+"Oh, alright, what time?"
+
+[Calendar menu appears with dates and you can enter the time as well]
